@@ -5,7 +5,7 @@ Have great day,
 Happy Learning.
 
 
-01 ) File named "01_Sensor_1_Test.ino" was code to test working of an individual infrared sensor.
+01) File named "01_Sensor_1_Test.ino" was code to test working of an individual infrared sensor.
 
 02) File named "02_Two_DC_Motor_Test.ino" was code to test working of an DC motor, code will test Two DC motors together, how ever you can test on as well.
 
